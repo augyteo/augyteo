@@ -1,4 +1,5 @@
-# Augy Studios
+# Augy
+###### Owner of Augy Studios
 
 Hi there! I'm Augy! I am a beginner software developer who is mostly interested in making bots for chat platforms such as Discord and Telegram. I usually mess around with C# and JavaScript, and I am currently learning Python.
 
