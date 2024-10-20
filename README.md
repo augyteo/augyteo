@@ -3,6 +3,10 @@
 
 Hey there, I'm Augy! I am a (mainly) front-end website developer. I usually mess around with HTML, CSS, and JavaScript, and I'm currently exploring making chatbots for Telegram.
 
+Check out my standalone web apps:
+- [Weather App](https://weatherapp.today)
+- [Currency Converter](https://convertcurrencyfor.me)
+
 ------------
 ## Statistics
 
