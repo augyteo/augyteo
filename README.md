@@ -6,6 +6,7 @@ Hey there, I'm Augy! I am a (mainly) front-end website developer. I usually mess
 Check out my standalone web apps:
 - [Weather App](https://weatherapp.today)
 - [Currency Converter](https://convertcurrencyfor.me)
+- [Halloween Pumpkin Thrower](https://throwpumpkins.lol/)
 
 ------------
 ## Statistics
