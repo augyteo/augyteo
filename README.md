@@ -8,6 +8,11 @@ Check out my standalone web apps:
 - [Currency Converter](https://convertcurrencyfor.me)
 - [Halloween Pumpkin Thrower](https://throwpumpkins.lol/)
 
+---
+
+Buy me a coffee!
+https://donate.stripe.com/28o2akeAr3hv0DK6oo
+
 ------------
 ## Statistics
 
