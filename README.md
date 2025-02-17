@@ -16,7 +16,9 @@ https://donate.stripe.com/28o2akeAr3hv0DK6oo
 ------------
 ## Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=augyteo&count_private=true&theme=chartreuse-dark)
+![Augy's GitHub stats](https://github-readme-stats.vercel.app/api?username=augyteo&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augyteo&layout=donut&hide=assembly&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
