@@ -1,7 +1,7 @@
 # Augy
 #### Owner of [Augy Studios](https://github.com/augy-studios)
 
-Hey there, I'm Augy! I am a (mainly) front-end website developer. I usually mess around with HTML, CSS, and JavaScript, and I'm currently exploring making chatbots for Discord in Python.
+Hey there, I'm Augy! I am a (mainly) front-end web developer. I usually mess around with HTML, CSS, and JavaScript, and I'm currently exploring making chatbots for Discord in Python.
 
 Check out my standalone web apps:
 - [Weather App](https://weatherapp.today)
