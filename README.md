@@ -24,5 +24,3 @@ Check out my standalone web apps:
 ![Augy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=augyteo&show_icons=true&theme=default&title_color=2d6a2d&icon_color=4caf50&text_color=2d6a2d&border_color=ccffcc)
 
 ![Augy's GitHub Streak](https://streak-stats.demolab.com?user=augyteo&theme=default&background=ffffff&ring=4caf50&fire=2d6a2d&currStreakLabel=2d6a2d&sideLabels=2d6a2d&dates=555555&border=ccffcc)
-
-![Augy's Contributions](https://github.pumbas.net/api/contributions/augyteo)
