@@ -15,11 +15,14 @@ Check out my standalone web apps:
 ------------
 ## Statistics
 
-![Augy's GitHub stats](https://github-readme-stats.vercel.app/api?username=augyteo&show_icons=true&theme=dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=augyteo&style=flat-square&color=4caf50&label=profile+views)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augyteo&layout=donut&hide=assembly&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Augy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augyteo&layout=compact&theme=default&title_color=2d6a2d&text_color=2d6a2d&border_color=ccffcc&langs_count=8)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/augyteo/count.svg" />
-</p>
+[![Augy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=augyteo&theme=github-compact&bg_color=ffffff&color=2d6a2d&line=4caf50&point=2d6a2d&area=true&area_color=ccffcc)](https://github.com/augyteo)
+
+![Augy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=augyteo&show_icons=true&theme=default&title_color=2d6a2d&icon_color=4caf50&text_color=2d6a2d&border_color=ccffcc)
+
+![Augy's GitHub Streak](https://streak-stats.demolab.com?user=augyteo&theme=default&background=ffffff&ring=4caf50&fire=2d6a2d&currStreakLabel=2d6a2d&sideLabels=2d6a2d&dates=555555&border=ccffcc)
+
+![Augy's Contributions](https://github.pumbas.net/api/contributions/augyteo)
