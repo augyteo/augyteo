@@ -3,10 +3,10 @@
 
 Hey there, I'm Augy! I am a (mainly) front-end web developer. I usually mess around with HTML, CSS, and JavaScript, and I'm currently exploring making chatbots for Discord in Python.
 
-Check out my standalone web apps:
-- [Weather App](https://weatherapp.today)
-- [Currency Converter](https://convertcurrencyfor.me)
-- [Halloween Pumpkin Thrower](https://throwpumpkins.lol/)
+Check out my proudest web apps:
+- [UwU Suite](https://uwuapps.org)
+- [GFTV.asia Short Links](https://gftv.asia)
+- [Verbal Warning Logger](https://vigila.augystudios.com)
 
 ---
 
